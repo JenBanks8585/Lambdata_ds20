@@ -8,9 +8,9 @@ with open("README.md", "r") as fh:
 setup(
     name="lambdata_DS20", # the name that you will install via pip
     version="1.0",
-    author="JBanks",
-    author_email="jennifer.banks8585@gmail.com",
-    description="A short description",
+    author="JenBanks",
+    author_email="jenlaman@gmail.com",
+    description="DS helper",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     #license="MIT",
